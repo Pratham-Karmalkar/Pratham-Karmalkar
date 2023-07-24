@@ -3,7 +3,7 @@
 
 - 💻 I’m currently learning an engineering student focused on developing applications in **PHP,Go JS and java**
 <br>
-<div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8"></a></p>
+<div style="width:100%;height:0;padding-bottom:43%;position:relative;"><img src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen/></div><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8"></a></p>
 
 
 - 📫 How to reach me **prathamkarmalkar3@gmail.com**
