@@ -6,6 +6,7 @@
 - 📫 How to reach me **prathamkarmalkar3@gmail.com**
 
 - ⚡ **I am also learning 日本語 (japanese) and have passed JLPT N5**
+<h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="pranavsmoghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" />][linkedin]
 [<img align="left" alt="pranavsmoghe | Gmail" width="22px" src="https://img.icons8.com/fluency/96/000000/gmail-new.png" />][gmail]
