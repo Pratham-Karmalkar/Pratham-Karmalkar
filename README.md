@@ -10,10 +10,10 @@
 - ⚡ **I am also learning 日本語 (japanese) and have passed JLPT N5**
 <h3 align="left">Connect with me:</h3>
 
-[<img align="left" alt="pranavsmoghe | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" />][linkedin]
-[<img align="left" alt="pranavsmoghe | Gmail" width="22px" src="https://img.icons8.com/fluency/96/000000/gmail-new.png" />][gmail]
+[<img align="left" alt="Pratham | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" />][linkedin]
+[<img align="left" alt="Pratham | Gmail" width="22px" src="https://img.icons8.com/fluency/96/000000/gmail-new.png" />][gmail]
 
-[linkedin]: pratham-karmalkar-1072b5223/
+[linkedin]: https://www.linkedin.com/in/pratham-karmalkar-1072b5223
 [gmail]: mailto:prathamkarmalkar3@gmail.com    
 
 <br>
