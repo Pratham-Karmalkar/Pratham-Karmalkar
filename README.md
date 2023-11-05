@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prathamkarmalkar3@gmail.com**
 
-- ⚡ **I am also learning 日本語 (japanese) **
+- ⚡ **I am also learning 日本語 (japanese)**
 <h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="Pratham | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" />][linkedin]
