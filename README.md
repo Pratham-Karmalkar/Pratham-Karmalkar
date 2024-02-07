@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Pratham</h1>
 <h3 align="center">A Final Year Engineering student and a passionate developer</h3>
 
-- 💻 I’m currently learning an engineering student focused on developing applications in **PHP, Go, JS and java**
+- 💻 I’m currently an engineering student developing applications in **Go, PHP, JS and java**
 <br>
 <img src="https://media.tenor.com/qA9u4ETE66MAAAAC/hello-there-kenobi.gif" />
 
